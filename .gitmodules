@@ -1,0 +1,6 @@
+[submodule "paragraph_page"]
+	path = paragraph_page
+	url = git@github.com:alexharries/paragraph_page.git
+[submodule "related_items_by_taxonomy"]
+	path = related_items_by_taxonomy
+	url = git@github.com:alexharries/related_items_by_taxonomy.git
