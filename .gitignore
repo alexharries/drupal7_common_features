@@ -1,0 +1,14 @@
+# Ignore Mac files, especially "Icon\r" files which make the baby Jesus cry...
+.DS_Store
+*/.DS_Store
+
+# The following three lines contain special characters to tell Git to ignore the
+# Mac Icon files whose names contain a newline character (because Apple are
+# idiots, sometimes, and I can say that because I'm an Apple fan, so nyer nyer).
+Icon
+
+
+# Do not change anything above this line after "The following lines...".
+
+# Ignore PHPStorm.
+.idea*
